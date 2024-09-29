@@ -1,0 +1,2 @@
+# NJuice
+JavaFX Library project
